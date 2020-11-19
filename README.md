@@ -4,6 +4,10 @@
 
 ### Hi 👋
 
+Sou Desenvolvedor FullStack que está iniciando a jornada nesta área maravilhosa.
+- 🌱 Estou aprendendo a criar projetos com React,  Mongodb, Heroku...
+- ⚡ Linguagens: Javascript
+
 <!--
 **leokattah/leokattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
