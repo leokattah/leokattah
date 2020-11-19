@@ -1,6 +1,6 @@
 **Leonardo Kattah**
 
-[Linkedin](https://img.shields.io/badge/LinkedIn-Leonardo%20Kattah-blue)
+[https://img.shields.io/badge/LinkedIn-Leonardo%20Kattah-blue](https://www.linkedin.com/in/leonardo-kattah-55059a20/)
 
 ### Hi 👋
 
