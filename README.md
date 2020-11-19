@@ -1,4 +1,6 @@
-**LEONARDO KATTAH**
+**Leonardo Kattah**
+
+https://www.linkedin.com/in/leonardo-kattah-55059a20/
 
 ### Hi 👋
 
