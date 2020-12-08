@@ -1,10 +1,7 @@
-**Leonardo Kattah**
+h1 align="center"> Olá, Sou o Leonardo! 🤩 </h1>
+<h3 align="center">🚀 Sou Desenvolvedor FullStack que está iniciando a jornada nesta área maravilhosa </h3>
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-kattah-55059a20/)
-
-### Hi 👋
-
-Sou Desenvolvedor FullStack que está iniciando a jornada nesta área maravilhosa.
+#### Área de atuação:
 - 🌱 Estou aprendendo a criar projetos com React,  Mongodb, Heroku...
 - ⚡ Linguagens: Javascript
 
