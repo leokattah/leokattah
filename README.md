@@ -1,7 +1,7 @@
 <h1 align="center"> Olá. Sou o Leonardo! </h1>
-<h3 align="center">🚀 Desenvolvedor FullStack que está iniciando a jornada nesta área maravilhosa </h3>
+<h3 align="center">🚀 Desenvolvedor FullStack em progresso </h3>
 
 #### Área de atuação:
-- 🌱 Estou aprendendo a criar projetos com React,  Mongodb, Heroku...
+- 🌱 Desenvolvimento de projetos com NodeJS, React, MySQL, SQLite, Mongodb, Heroku...
 - ⚡ Linguagens: Javascript
 
