@@ -5,6 +5,6 @@
 - 🌱 Desenvolvimento de projetos com NodeJS, React, MySQL, SQLite, Mongodb, Heroku, Firebase...
 - ⚡ Linguagens: Javascript
 
-Website com portfólio: https://devleokattah.herokuapp.com/
+Website com portfólio: https://leokattah.com.br/
 
 
